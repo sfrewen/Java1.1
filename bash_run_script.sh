@@ -1,2 +1,2 @@
-javac helloworldapp.java
-java helloworldapp
+javac HelloWorldApp.java
+java HelloWorldApp
