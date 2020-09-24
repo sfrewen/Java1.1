@@ -1,2 +1,2 @@
-run = "bash_run_script.sh"
+run = "bash run_script.sh"
 language = "java"
